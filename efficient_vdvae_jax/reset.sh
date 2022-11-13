@@ -1,1 +1,0 @@
-rm -r logs-$1 checkpoints-$1
